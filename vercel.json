@@ -1,0 +1,5 @@
+{
+  "buildCommand": "npm run vercel-build",
+  "devCommand": "vite",
+  "outputDirectory": "dist"
+}
